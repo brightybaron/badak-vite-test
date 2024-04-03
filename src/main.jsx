@@ -17,6 +17,7 @@ const router = createBrowserRouter([
   {
     path: "/",
     element: <Home />,
+    basename: "/badak-vite-test/",
   },
   {
     path: "/paket",
